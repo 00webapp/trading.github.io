@@ -1,5 +1,5 @@
 <?php
-$servername = "localhost";
+$servername = "103.21.58.50";
 $username = "crmbuxco_trading";
 $password = "Kscpl@2011";
 $database = "crmbuxco_trading";
