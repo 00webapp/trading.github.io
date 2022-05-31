@@ -1,5 +1,5 @@
 <?php
-$servername = "103.21.58.50";
+$servername = "103.21.58.50:3306";
 $username = "crmbuxco_trading";
 $password = "Kscpl@2011";
 $database = "crmbuxco_trading";
